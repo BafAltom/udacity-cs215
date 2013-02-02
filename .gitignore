@@ -1,3 +1,7 @@
+# custom
+card_saved
+*.tsv
+
 *.py[cod]
 
 # C extensions
